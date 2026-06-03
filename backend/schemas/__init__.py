@@ -1,0 +1,1 @@
+"""Shared schemas for the AI-powered POC generator."""
